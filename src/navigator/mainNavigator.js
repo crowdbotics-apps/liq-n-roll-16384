@@ -10,7 +10,6 @@ import Maps54113Navigator from '../features/Maps54113/navigator';
 import Add-Item54109Navigator from '../features/Add-Item54109/navigator';
 import Maps54108Navigator from '../features/Maps54108/navigator';
 import Maps40021Navigator from '../features/Maps40021/navigator';
-import UserProfile40019Navigator from '../features/UserProfile40019/navigator';
 import MessengerNavigator from '../features/Messenger/navigator';
 import TutorialNavigator from '../features/Tutorial/navigator';
 import MapsNavigator from '../features/Maps/navigator';
@@ -32,7 +31,6 @@ Maps54113: { screen: Maps54113Navigator },
 Add-Item54109: { screen: Add-Item54109Navigator },
 Maps54108: { screen: Maps54108Navigator },
 Maps40021: { screen: Maps40021Navigator },
-UserProfile40019: { screen: UserProfile40019Navigator },
 Messenger: { screen: MessengerNavigator },
 Tutorial: { screen: TutorialNavigator },
 Maps: { screen: MapsNavigator },
